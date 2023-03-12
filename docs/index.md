@@ -1,5 +1,8 @@
+---
+title: Home
+---
 
-
+## Subscribe to get updates from us!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

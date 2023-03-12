@@ -18,6 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+header_pages:
+  - about.md
+  - parents.md
+  - young-people.md
+  - leaders.md
+  
 domain: www.14thcanterbury.org
 title: 14th Canterbury Scout Group
 email: info@14thcanterbury.org

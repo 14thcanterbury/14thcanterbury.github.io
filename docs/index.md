@@ -1,6 +1,4 @@
-layout: page
-title: "Home"
-permalink: /
+
 
 
 <!-- Begin Mailchimp Signup Form -->

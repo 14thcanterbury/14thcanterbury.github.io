@@ -18,7 +18,13 @@ categories: newsletter
 - Confirm all dates
 - Confirm subs breakdown & calcs
 - email address??
+- formatting / images?
 - Spell & grammar Check
+
+![14th logo  ](/14th-logo.png "14th logo")
+- 14th Canterbury Scount Group
+- Group Reg. No. 35908 
+- Registered Charity No. 285810
 
 ## Contents
 

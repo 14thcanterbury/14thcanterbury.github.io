@@ -94,14 +94,15 @@ This years Spring bank holiday Group camp is taking place at Bexon Lane.
 - Section roles
 
 ## 2023 Subs: £35
-```mermaid
+
+<div class="mermaid">
 pie showdata
     title "2023 Subs Breakdown: £35 per term - £105 per year
     "HQ" : 50
     "District" : 25
     "Group" : 25
     "Section": 21
-```
+</div>
 
 Section gets per child per year: £21
 
@@ -132,3 +133,7 @@ Average number of children per section: 25
 Thanks to all of the leaders, volunteers and team members. 
 We've now got an email address that you can use to get in touch with us - info@14thcanterbury.org
 
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>

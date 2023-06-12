@@ -3,15 +3,12 @@ title: Leaders
 permalink: /leaders/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Info for leaders
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Tech and Email
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Login in with @14thcanterbury.org
 
+### [Email](https://outlook.office.com)
+### [Shared Drive & Files](https://14thcanterbury.sharepoint.com/)
 
-[jekyll-organization]: https://github.com/jekyll

@@ -7,6 +7,15 @@ title: Home
 - Canterbury, Kent
 - Scouting from 4 - 18 year olds
 
+14th Canterbury Scout Group meet in Canterbury City Centre, and provide Scouting for all:
+
+- Squirrels for 4 - 6 year olds. Mondays 5-5:45pm.
+- Beaver Scout Colony for 6-8 year olds. Mondays from 6-7pm. 
+- Cub Scout Pack for 8-10 year olds. Mondays from 7- 8.15pm.
+- Scouts 10 - 14 year olds. Fridays 7 - 9pm.
+- Explorer Scouts 14 - 18 year olds. Fridays 7 - 9pm
+- Network (in progress). 18 - 25 year olds.
+
 ## Are you a...?
 
 - [Parent](parents)

@@ -5,6 +5,23 @@ permalink: /explorers/
 
 ## Salamanders - 14th Canterbury Explorer Scout Unit
 
+### Leaders
+
+- Dave Bentley
+- Ross Buggins
+
+### When we meet
+
+- Fridays, 7-9pm, Canterbury
+
+## Current Programme Winter 2024
+
+- Friday Jan 5th - Friday March 22nd
+
+## Upcoming Events
+
+- London Monopoly Run, 2nd March 2024
+
 ### Canterbury OS Map Challenge
 
 Explorer 150 - Canterbury & the Isle of Thanet
@@ -28,9 +45,12 @@ Explorer 150 - Canterbury & the Isle of Thanet
 | 2024-001 | TR 18 68 |
 
 
-### Upcoming Events
 
-### Current Forum
+
+### Current Forum Members
+
 
 ### Forum Consitution
+
+[TODO]
 

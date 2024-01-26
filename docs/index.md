@@ -12,7 +12,7 @@ title: Home
 - [Parent](parents)
 - [Young Person](yp) 
 - [Leader](leaders)
-- [Member of pubic](public)
+- [Member of public](public)
 
 ## Are you looking for?
 

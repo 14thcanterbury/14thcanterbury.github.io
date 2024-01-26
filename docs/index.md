@@ -2,22 +2,25 @@
 title: Home
 ---
 
+## Who we are
+
+- Canterbury, Kent
+- Scouting from 4 - 18 year olds
 
 ## Are you a...?
 
-- Parent
-- Young Person 
-- Leader
-- Member of pubic / press?
+- [Parent](parents)
+- [Young Person](yp) 
+- [Leader](leaders)
+- [Member of pubic](public)
 
 ## Are you looking for?
 
 - [Key Dates for the diary](parents)
-- How to help out? Find out what help we need
-- 
+- [How to help out?](help) Find out what help we need
+- [How can my child get involved?](join)
 
 ## Donate
-
 
 <img src="dotnate-14th.png" width="200" height="200" />
 

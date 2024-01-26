@@ -10,9 +10,11 @@ title: Home
 - Leader
 - Member of pubic / press?
 
-## We are recruiting!
+## Are you looking for?
 
-- Find out what help we need
+- [Key Dates for the diary](parents)
+- How to help out? Find out what help we need
+- 
 
 ## Donate
 

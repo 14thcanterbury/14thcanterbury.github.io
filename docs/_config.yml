@@ -34,6 +34,13 @@ url: "https://www.14thcanterbury.org" # the base hostname & protocol for your si
 
 # Build settings
 theme: minima
+
+minima:
+  skin: dark
+
+sass:
+    sass_dir: _sass
+
 plugins:
   - jekyll-feed
 

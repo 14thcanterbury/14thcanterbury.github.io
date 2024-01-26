@@ -19,6 +19,7 @@ title: Home
 - [Key Dates for the diary](parents)
 - [How to help out?](help) Find out what help we need
 - [How can my child get involved?](join)
+- [Newsletters](Newsletters)
 
 ## Donate
 

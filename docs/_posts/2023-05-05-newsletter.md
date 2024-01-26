@@ -3,6 +3,7 @@ layout: post
 title:  "May 2023 Group Newsletter"
 date:   2023-05-05 06:00:00 +0000
 categories: newsletter
+tags: newsletter 2024
 ---
 
 **DRAFT**

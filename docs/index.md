@@ -5,8 +5,15 @@ title: Home
 
 ## Are you a...?
 
-### Parent
+- Parent
+- Young Person 
+- Leader
+- Member of pubic / press?
 
-### Young Person / Existing member of 14th Canterbury?
+## We are recruiting!
 
-### Member of pubic / press?
+- Find out what help we need
+
+## About this site
+
+This site is Open Source and can be contributed at [https://github.com/14thcanterbury/14thcanterbury.github.io](https://github.com/14thcanterbury/14thcanterbury.github.io)

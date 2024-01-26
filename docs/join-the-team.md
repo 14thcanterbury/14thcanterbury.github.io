@@ -7,6 +7,6 @@ permalink: /help/
 
 - Equipment Volunteer Team
 - Communications Volunteer Team
-- [Technology Volunteer Team (TVT)](tech)
+- [Technology Volunteer Team (TVT)](/tech)
 - Events and Fundraising Volunteer Team 
 - Trustee Board (Executive Team)

@@ -5,8 +5,8 @@ permalink: /help/
 
 ## We would love help with our....
 
-- Equipment Team
-- Comms Team
-- Tech Team
-- Events Team
-- Executive Team
+- Equipment Volunteer Team
+- Communications Volunteer Team
+- [Technology Volunteer Team (TVT)](tech)
+- Events and Fundraising Volunteer Team 
+- Trustee Board (Executive Team)
